@@ -14,4 +14,3 @@ while guess != num:
         
     elif guess < num:
         print("guess a number that is a little higher")
-        
